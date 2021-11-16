@@ -10,7 +10,7 @@ public class rafaelDavid {
 			int B = input.nextInt();
 			int SOMA = A+B;
 			
-			System.out.println("SOMA" +SOMA);
+			System.out.println("SOMA = " +SOMA);
 			
 			input.close();
 		}
